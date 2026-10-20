@@ -1,10 +1,10 @@
 ## Crude Job Search
-Trying to keep on top of job postings is difficult.  SOmetimes the search functions are not what we like.  So I decided to create my own search
+Trying to keep on top of job postings is difficult.  Sometimes the search functions are not what we like.  So I decided to create my own search
 
-I did use AI to automate this task, but I still know what is going on.  I ping nvidias workday and download the job descriptions to a CSV.  This allows me to immediately filter for recent postings.  There is a crude scoring mechaninsm but I grab em all to review.  There are some filters, right now it does grab everything and the filter for the US is incorrect.  I know how to fix it, so if you want to duplicate this you may have to understand python and figure out the variable to edit.
+I did use AI to automate this task, but I still know what is going on.  I ping NVIDIA workday and download the job descriptions to a database and then export to a CSV for my perusal.  This allows me to immediately filter for recent postings.  There is a crude scoring mechanism but I grab em all to review.  There are some filters, right now it does grab everything and the filter for the US is incorrect.  I know how to fix it, so if you want to duplicate this you may have to understand python and figure out the variable to edit.
 It does not apply for jobs.  I still do that the old fashioned way tailoring my resume to the JD (AND NOT MAKING UP FAKE CREDENTIALS!!)
 
-Here's the text of the file which claude so generously built for me:
+Here's the text of the file which Claude so generously built for me:
 
 NVIDIA job tracker
 ==================
