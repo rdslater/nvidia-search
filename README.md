@@ -6,6 +6,8 @@ It does not apply for jobs.  I still do that the old fashioned way tailoring my 
 
 Here's the text of the file which Claude so generously built for me:
 
+(Mayo Clinic you're next!)
+
 NVIDIA job tracker
 ==================
 Pulls job postings from NVIDIA's Workday careers site (via the same JSON API the
